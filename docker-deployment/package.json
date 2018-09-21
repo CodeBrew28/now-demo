@@ -1,0 +1,9 @@
+{
+    "name": "micro",
+    "scripts": {
+        "start": "micro index.js"
+    },
+    "dependencies": {
+        "micro": "9.3.3"
+    }
+}
